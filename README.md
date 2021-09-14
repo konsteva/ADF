@@ -3,7 +3,7 @@ A simple implementation of Augmented Dickey–Fuller test to determine stationar
 
 # Example
 
-Data: Births in Greece between the years 1950-2020
+Data: Births in Greece between the years 1950-2019
 
 ![Figure_1](https://user-images.githubusercontent.com/58198596/133328065-8751f4db-83c2-41e5-a03a-6cd16eb84094.png)
 
