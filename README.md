@@ -15,7 +15,9 @@ ADF Statistic:
 p-Value:
 0.9230433813636383
 
-Critical Values:  1%: -3.5463945337644063
+Critical Values:  
+
+                  1%: -3.5463945337644063
 
                   5%: -2.911939409384601
 
